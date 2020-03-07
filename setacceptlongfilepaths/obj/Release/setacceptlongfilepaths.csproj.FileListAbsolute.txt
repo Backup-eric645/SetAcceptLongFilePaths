@@ -1,0 +1,7 @@
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\bin\Release\setacceptlongfilepaths.exe.config
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\bin\Release\setacceptlongfilepaths.exe
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\bin\Release\setacceptlongfilepaths.pdb
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\obj\Release\setacceptlongfilepaths.csprojAssemblyReference.cache
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\obj\Release\setacceptlongfilepaths.csproj.CoreCompileInputs.cache
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\obj\Release\setacceptlongfilepaths.exe
+C:\Users\EricAS\source\repos\setacceptlongfilepaths\setacceptlongfilepaths\obj\Release\setacceptlongfilepaths.pdb
